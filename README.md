@@ -4,7 +4,7 @@ This project uses the **cvxpy** library to solve the optimization problem. \
 You can [read the official documentation here](https://www.cvxpy.org/).
 
 #### Contributors
-[Dhruvee Birla](https://github.com/dhruvxx) and myself.
+[Pahulpreet Singh](https://github.com/codelixir) and [Dhruvee Birla](https://github.com/dhruvxx).
 
 This assignment was done as a part of the Machine, Data and Learning course, Spring 2021.
 
